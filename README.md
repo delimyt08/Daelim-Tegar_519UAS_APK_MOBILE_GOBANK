@@ -1,5 +1,5 @@
 
-# UAS Pemrograman Mobile - Aplikasi GopayLite
+# UAS Pemrograman Mobile - Aplikasi GoBANK
 
 ## Identitas
 * **Nama:** [Daelim Kuntana] [TEGAR]
